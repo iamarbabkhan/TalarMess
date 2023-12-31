@@ -15,6 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width ="30"><b> MEMBERS CONTRIBUTION </b>
 
+## Last updated on 01-Jan-2024
 
 | Member   | Total Amount | Amount Paid | Amount Balance |
 |----------|--------------|-------------|-----------------|
