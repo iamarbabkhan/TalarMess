@@ -8,7 +8,7 @@
 
 | 	DAY	 | 	MONDAY	 | 	TUESDAY	 | 	WEDNESDAY | THURSDAY  |  FRIDAY    |	SATURDAY |  SUNDAY  | 
 | 	:-----:	 | 	:-----:	 | 	:-----:	 | 	:-----:	| 	:-----:	 | 	:-----:	| 	:-----:	 | 	:-----:	 | 
-| 	BREAKFAST| Roti,Tadka	| 	Dosa,Chatni | 	Poha   | Mix/Aloo Paratha|  | Value2  	| 	Puri,Sabji	 |  
+| 	BREAKFAST| Roti,Tadka	| 	Dosa,Chatni | 	Poha   | Mix/Aloo Paratha|   Value2  	| 	Puri,Sabji	 |  
 | 	LUNCH	| Rice,Roti,Sabji| 	Value3	   | 	Value1   | Value2|	Value3 | Value2  	| 	No Food	 |
 | 	DINNER	| Tomato Rice	| 	Value3	   | 	Value1   | Value2|	Value3 | Value2  	| 	Paneer/Chicken	 | 
 
