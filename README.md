@@ -34,7 +34,10 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-# Your Project Title
-[![Last Commit](https://img.shields.io/github/iamarbabkhan/talarmess)](https://github.com/iamarbabkhan/talarmess/commits/main)
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
+<p align="center">
 
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://in.linkedin.com/in/arbabkhan579">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
