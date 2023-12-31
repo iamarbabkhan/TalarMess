@@ -3,18 +3,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media.giphy.com/media/3o85g3loeiLcF26OZy/giphy.gif" width ="25"><b> MENU CHART</b>
+## <img src="https://media.giphy.com/media/3o85g3loeiLcF26OZy/giphy.gif" width ="30"><b> MENU CHART</b>
 
 
-
-###### Rendered Output: 
-| 	header1	 | 	header2	 | 	header3	 | 
-| 	:-----:	 | 	:-----:	 | 	:-----:	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
-| 	Value1	| 	Value2	| 	Value3	 | 
+| 	DAY	 | 	MONDAY	 | 	TUESDAY	 | 	WEDNESDAY | THURSDAY  |  FRIDAY    |	SATURDAY |  SUNDAY  | 
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | 	:-----:| 	:-----:	 | 	:-----:	| 	:-----:	 | 	:-----:	 | 
+| 	BREAKFAST	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 |  
+| 	LUNCH	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 |
+| 	DINNER	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 | 
 
 
-## <b> MENU CHART</b>
+## <img src="https://media.giphy.com/media/3o6Zt18Yapjtt3uMIU/giphy.gif" width ="30"><b> MEMBERS CONTRIBUTION </b>
