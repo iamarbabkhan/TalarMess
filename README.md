@@ -14,3 +14,20 @@
 
 
 ## <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width ="30"><b> MEMBERS CONTRIBUTION </b>
+
+
+| Member   | Total Amount | Amount Paid | Amount Balance |
+|----------|--------------|-------------|-----------------|
+| Aakash Rathor  | 2000         | 500         | 1500            |
+| Abhishek Kumar | 2000         | 500        | 1500            |
+| Ajeet Srivastav    | 2000         | 500         | 1500            |
+| Arbab Khan   | 2000         | 500         | 1900            |
+| Asgar Ali    | 2000         | 500         | 1500            |
+| G.Adi Keshav   | 2000         | 500         | 1500            |
+| K.Sharma | 2000         | 500         | 1500            |
+| K.V Maheshwar Reddy| 2000         | 500         | 1500            |
+| Rajesh Sahu   | 2000         | 500         | 1500            |
+| Ravi K. Sharma    | 2000         | 500         | 1500            |
+| Tushar Thombre   | 2000         | 500         | 1500            |
+| Virender Kumar | 2000         | 500         | 1500            |
+| Vivek Yadav    | 2000         | 500         | 1500            |
