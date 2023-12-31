@@ -7,10 +7,10 @@
 
 
 | 	DAY	 | 	MONDAY	 | 	TUESDAY	 | 	WEDNESDAY | THURSDAY  |  FRIDAY    |	SATURDAY |  SUNDAY  | 
-| 	:-----:	 | 	:-----:	 | 	:-----:	 | 	:-----:| 	:-----:	 | 	:-----:	| 	:-----:	 | 	:-----:	 | 
-| 	BREAKFAST	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 |  
-| 	LUNCH	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 |
-| 	DINNER	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 | 
+| 	:-----:	 | 	:-----:	 | 	:-----:	 | 	:-----:	| 	:-----:	 | 	:-----:	| 	:-----:	 | 	:-----:	 | 
+| 	BREAKFAST| Roti,Tadka	| 	Dosa,Chatni | 	Poha   | Mix/Aloo Paratha|  | Value2  	| 	Puri,Sabji	 |  
+| 	LUNCH	| Rice,Roti,Sabji| 	Value3	   | 	Value1   | Value2|	Value3 | Value2  	| 	No Food	 |
+| 	DINNER	| Tomato Rice	| 	Value3	   | 	Value1   | Value2|	Value3 | Value2  	| 	Paneer/Chicken	 | 
 
 
 ## <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width ="30"><b> MEMBERS CONTRIBUTION </b>
