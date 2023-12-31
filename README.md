@@ -13,4 +13,4 @@
 | 	DINNER	| 	Value2	| 	Value3	   | 	Value1   | 	Value2|	Value3 | Value2  	| 	Value3	 | 
 
 
-## <img src="https://media.giphy.com/media/78E3Cv7kKD5XW/giphy.gif" width ="30"><b> MEMBERS CONTRIBUTION </b>
+## <img src="https://media.giphy.com/media/xTiTnqUxyWbsAXq7Ju/giphy.gif" width ="30"><b> MEMBERS CONTRIBUTION </b>
