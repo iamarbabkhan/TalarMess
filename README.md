@@ -35,5 +35,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 # Your Project Title
+[![Last Commit](https://img.shields.io/github/iamarbabkhan/talarmess)](https://github.com/iamarbabkhan/talarmess/commits/main)
 
-[![Live Date and Time](https://img.shields.io/date/:timestamp?label=Live%20Date%20and%20Time)](https://shields.io/)
+
