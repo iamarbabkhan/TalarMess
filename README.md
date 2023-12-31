@@ -31,3 +31,9 @@
 | Tushar Thombre   | 2000         | 500         | 1500            |
 | Virender Kumar | 2000         | 500         | 1500            |
 | Vivek Yadav    | 2000         | 500         | 1500            |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+# Your Project Title
+
+[![Live Date and Time](https://img.shields.io/date/:timestamp?label=Live%20Date%20and%20Time)](https://shields.io/)
